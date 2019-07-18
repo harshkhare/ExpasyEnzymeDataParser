@@ -1,0 +1,1839 @@
+Query:
+EC(ID) : .*
+Name : acetyl
+Cofactor : .*
+===================================================
+
+
+ID 1.1.1.4
+CA (R,R)-butane-2,3-diol + NAD(+) = (R)-acetoin + NADH.
+AN (R)-2,3-butanediol dehydrogenase.
+ (R)-diacetyl reductase.
+ 1-amino-2-propanol dehydrogenase.
+ 1-amino-2-propanol oxidoreductase.
+ 2,3-butanediol dehydrogenase.
+ Aminopropanol oxidoreductase.
+ Butylene glycol dehydrogenase.
+ Butyleneglycol dehydrogenase.
+ D-(-)-butanediol dehydrogenase.
+ D-1-amino-2-propanol dehydrogenase.
+ D-1-amino-2-propanol:NAD(2) oxidoreductase.
+ D-aminopropanol dehydrogenase.
+ D-butanediol dehydrogenase.
+ Diacetyl (acetoin) reductase.
+DE (R,R)-butanediol dehydrogenase.
+
+----------------------------
+ID 1.1.1.36
+CA (R)-3-hydroxyacyl-CoA + NADP(+) = 3-oxoacyl-CoA + NADPH.
+DE Acetoacetyl-CoA reductase.
+
+----------------------------
+ID 1.1.1.136
+DE UDP-N-acetylglucosamine 6-dehydrogenase.
+CA UDP-N-acetyl-D-glucosamine + 2 NAD(+) + H(2)O = UDP-N-acetyl-2-amino-2-
+ deoxy-D-glucuronate + 2 NADH.
+
+----------------------------
+ID 1.1.1.158
+CA UDP-N-acetylmuramate + NADP(+) = UDP-N-acetyl-3-O-(1-carboxyvinyl)-D-
+ glucosamine + NADPH.
+AN UDP-GlcNAc-enoylpyruvate reductase.
+ UDP-N-acetylenolpyruvoylglucosamine reductase.
+ UDP-N-acetylglucosamine-enoylpyruvate reductase.
+ Uridine diphospho-N-acetylglucosamine-enolpyruvate reductase.
+ Uridine diphosphoacetylpyruvoylglucosamine reductase.
+ Uridine-5'-diphospho-N-acetyl-2-amino-2-deoxy-3-O-lactylglucose:NADP-
+ oxidoreductase.
+CF FAD.
+DE UDP-N-acetylmuramate dehydrogenase.
+
+----------------------------
+ID 1.1.1.233
+AN N-acetyl-D-mannosamine dehydrogenase.
+ N-acyl-D-mannosamine dehydrogenase.
+ N-acylmannosamine dehydrogenase.
+CA N-acyl-D-mannosamine + NAD(+) = N-acyl-D-mannosaminolactone + NADH.
+DE N-acylmannosamine 1-dehydrogenase.
+
+----------------------------
+ID 1.1.1.240
+CA N-acetyl-D-glucosamine + NAD(+) = N-acetyl-D-glucosaminate + NADH.
+DE N-acetylhexosamine 1-dehydrogenase.
+
+----------------------------
+ID 1.2.1.10
+DE Acetaldehyde dehydrogenase (acetylating).
+AN Acylating acetaldehyde dehydrogenase.
+ Aldehyde dehydrogenase (acylating).
+CA Acetaldehyde + CoA + NAD(+) = acetyl-CoA + NADH.
+
+----------------------------
+ID 1.2.1.18
+CA 3-oxopropanoate + CoA + NAD(P)(+) = acetyl-CoA + CO(2) + NAD(P)H.
+DE Malonate-semialdehyde dehydrogenase (acetylating).
+
+----------------------------
+ID 1.2.1.38
+DE N-acetyl-gamma-glutamyl-phosphate reductase.
+CA N-acetyl-L-glutamate 5-semialdehyde + NADP(+) + phosphate = N-acetyl-5-
+ glutamyl phosphate + NADPH.
+AN N-acetyl-glutamate semialdehyde dehydrogenase.
+ NAGSA dehydrogenase.
+
+----------------------------
+ID 1.2.3.6
+DE Pyruvate oxidase (CoA-acetylating).
+CF FAD.
+CA Pyruvate + CoA + O(2) = acetyl-CoA + CO(2) + H(2)O(2).
+
+----------------------------
+ID 1.2.4.1
+AN MtPDC (mitochondrial pyruvate dehydogenase complex).
+ Pyruvate decarboxylase.
+ Pyruvate dehydrogenase.
+ Pyruvate dehydrogenase (lipoamide).
+ Pyruvate dehydrogenase complex.
+ Pyruvate:lipoamide 2-oxidoreductase (decarboxylating and acceptor-
+ acetylating).
+ Pyruvic acid dehydrogenase.
+ Pyruvic dehydrogenase.
+CA Pyruvate + [dihydrolipoyllysine-residue acetyltransferase] lipoyllysine =
+ [dihydrolipoyllysine-residue acetyltransferase]
+ S-acetyldihydrolipoyllysine + CO(2).
+CF Thiamine diphosphate.
+DE Pyruvate dehydrogenase (acetyl-transferring).
+
+----------------------------
+ID 1.7.1.12
+AN N-hydroxy-2-acetylaminofluorene reductase.
+ NAD(P)H:N-hydroxy-2-acetamidofluorene N-oxidoreductase.
+CA 2-acetamidofluorene + NAD(P)(+) + H(2)O = N-hydroxy-2-acetamidofluorene +
+ NAD(P)H.
+DE N-hydroxy-2-acetamidofluorene reductase.
+
+----------------------------
+ID 1.8.4.13
+CA L-methionine + thioredoxin disulfide + H(2)O = L-methionine (S)-S-oxide +
+ thioredoxin.
+AN Acetylmethionine sulfoxide reductase.
+ Free-methionine (S)-S-oxide reductase.
+ FSMsr.
+ Methionine sulfoxide reductase.
+ Methionine-S-oxide reductase.
+ Methyl sulfoxide reductase I and II.
+DE L-methionine (S)-S-oxide reductase.
+CF NADPH.
+
+----------------------------
+ID 1.13.11.50
+AN Acetylacetone dioxygenase.
+ Diketone cleaving dioxygenase.
+ Diketone cleaving enzyme.
+CA Pentane-2,4-dione + O(2) = acetate + 2-oxopropanal.
+CF Iron.
+DE Acetylacetone-cleaving enzyme.
+
+----------------------------
+ID 1.14.11.26
+CF Iron.
+DE Deacetoxycephalosporin-C hydroxylase.
+AN 3'-methylcephem hydroxylase.
+ DACS.
+ DAOC hydroxylase.
+ Deacetoxycephalosporin C hydroxylase.
+ Deacetylcephalosporin C synthase.
+CA Deacetoxycephalosporin C + 2-oxoglutarate + O(2) = deacetylcephalosporin
+ C + succinate + CO(2).
+
+----------------------------
+ID 1.14.18.2
+CF Iron; Iron-sulfur.
+DE CMP-N-acetylneuraminate monooxygenase.
+AN CMP-N-acetylneuraminate hydroxylase.
+ CMP-N-acetylneuraminic acid hydroxylase.
+ CMP-Neu5Ac hydroxylase.
+ Cytidine monophosphoacetylneuraminate monooxygenase.
+CA CMP-N-acetylneuraminate + 2 ferrocytochrome b5 + O(2) + 2 H(+) = CMP-N-
+ glycoloylneuraminate + 2 ferricytochrome b5 + H(2)O.
+
+----------------------------
+ID 1.14.99.33
+CA Linoleate + AH(2) + O(2) = crepenynate + A + H(2)O.
+AN Crepenynate synthase.
+ Delta-12 fatty acid acetylenase.
+ Linoleate Delta-12-fatty acid acetylenase (desaturase).
+DE Delta(12)-fatty acid dehydrogenase.
+CF Iron.
+
+----------------------------
+ID 1.17.5.1
+DE Phenylacetyl-CoA dehydrogenase.
+CF Iron-sulfur; Molybdopterin.
+CA Phenylacetyl-CoA + H(2)O + 2 quinone = phenylglyoxylyl-CoA + 2 quinol.
+AN Phenylacetyl-CoA:acceptor oxidoreductase.
+
+----------------------------
+ID 1.97.1.4
+DE [Formate-C-acetyltransferase]-activating enzyme.
+CF Iron-sulfur.
+AN [Pyruvate formate-lyase]-activating enzyme.
+ Formate acetyltransferase activating enzyme.
+ Formate acetyltransferase-glycine dihydroflavodoxin:S-adenosyl-L-
+ methionine oxidoreductase (S-adenosyl-L-methionine cleaving).
+ PFL activase.
+ PFL-glycine:S-adenosyl-L-methionine H transferase (flavodoxin-oxidizing,
+ S-adenosyl-L-methionine-cleaving).
+CA S-adenosyl-L-methionine + dihydroflavodoxin + [formate
+ C-acetyltransferase]-glycine = 5'-deoxyadenosine + L-methionine +
+ flavodoxin semiquinone + [formate C-acetyltransferase]-glycin-2-yl
+ radical.
+
+----------------------------
+ID 2.1.1.4
+AN Hydroxyindole O-methyltransferase.
+CA S-adenosyl-L-methionine + N-acetylserotonin = S-adenosyl-L-homocysteine +
+ N-acetyl-5-methoxytryptamine.
+DE Acetylserotonin O-methyltransferase.
+
+----------------------------
+ID 2.1.1.94
+DE Tabersonine 16-O-methyltransferase.
+CA S-adenosyl-L-methionine + 16-hydroxytabersonine = S-adenosyl-L-
+ homocysteine + 16-methoxytabersonine.
+AN 11-demethyl-17-deacetylvindoline 11-methyltransferase.
+ 11-O-demethyl-17-O-deacetylvindoline O-methyltransferase.
+ S-adenosyl-L-methionine:11-O-demethyl-17-O-deacetylvindoline 11-O-
+ methyltransferase.
+
+----------------------------
+ID 2.1.1.152
+AN Precorrin-6X synthase (deacetylating).
+CA S-adenosyl-L-methionine + precorrin-5 + H(2)O = S-adenosyl-L-homocysteine
+ + precorrin-6A + acetate.
+DE Precorrin-6A synthase (deacetylating).
+
+----------------------------
+ID 2.1.3.9
+DE N-acetylornithine carbamoyltransferase.
+CA Carbamoyl phosphate + N(2)-acetyl-L-ornithine = phosphate + N-acetyl-L-
+ citrulline.
+AN Acetylornithine transcarbamylase.
+ AOTC.
+ N-acetylornithine transcarbamylase.
+
+----------------------------
+ID 2.3.1.1
+CA Acetyl-CoA + L-glutamate = CoA + N-acetyl-L-glutamate.
+AN N-acetylglutamate synthase.
+DE Amino-acid N-acetyltransferase.
+
+----------------------------
+ID 2.3.1.3
+DE Glucosamine N-acetyltransferase.
+CA Acetyl-CoA + D-glucosamine = CoA + N-acetyl-D-glucosamine.
+AN Glucosamine acetylase.
+
+----------------------------
+ID 2.3.1.5
+DE Arylamine N-acetyltransferase.
+CA Acetyl-CoA + an arylamine = CoA + an N-acetylarylamine.
+AN Arylamine acetylase.
+
+----------------------------
+ID 2.3.1.7
+DE Carnitine O-acetyltransferase.
+CA Acetyl-CoA + carnitine = CoA + O-acetylcarnitine.
+AN Carnitine acetylase.
+
+----------------------------
+ID 2.3.1.9
+DE Acetyl-CoA C-acetyltransferase.
+AN Acetoacetyl-CoA thiolase.
+CA 2 acetyl-CoA = CoA + acetoacetyl-CoA.
+
+----------------------------
+ID 2.3.1.11
+AN Thioethanolamine acetyltransferase.
+ Thioltransacetylase B.
+CA Acetyl-CoA + 2-aminoethanethiol = CoA + S-(2-aminoethyl)thioacetate.
+DE Thioethanolamine S-acetyltransferase.
+
+----------------------------
+ID 2.3.1.14
+DE Glutamine N-phenylacetyltransferase.
+CA Phenylacetyl-CoA + L-glutamine = CoA + alpha-N-phenylacetyl-L-glutamine.
+
+----------------------------
+ID 2.3.1.16
+DE Acetyl-CoA C-acyltransferase.
+CA Acyl-CoA + acetyl-CoA = CoA + 3-oxoacyl-CoA.
+AN 3-ketoacyl-CoA thiolase.
+ Beta-ketothiolase.
+
+----------------------------
+ID 2.3.1.18
+DE Galactoside O-acetyltransferase.
+AN Thiogalactoside acetyltransferase.
+CA Acetyl-CoA + a beta-D-galactoside = CoA + a 6-acetyl-beta-D-galactoside.
+
+----------------------------
+ID 2.3.1.27
+DE Cortisol O-acetyltransferase.
+CA Acetyl-CoA + cortisol = CoA + cortisol 21-acetate.
+
+----------------------------
+ID 2.3.1.29
+CA Acetyl-CoA + glycine = CoA + 2-amino-3-oxobutanoate.
+AN 2-amino-3-ketobutyrate coenzyme A ligase.
+CF Pyridoxal 5'-phosphate.
+DE Glycine C-acetyltransferase.
+
+----------------------------
+ID 2.3.1.30
+CA Acetyl-CoA + L-serine = CoA + O-acetyl-L-serine.
+DE Serine O-acetyltransferase.
+
+----------------------------
+ID 2.3.1.32
+DE Lysine N-acetyltransferase.
+AN LAT.
+ Lysine acetyltransferase.
+ Lysine N(6)-acetyltransferase.
+CA Acetyl phosphate + L-lysine = phosphate + N(6)-acetyl-L-lysine.
+
+----------------------------
+ID 2.3.1.34
+DE D-tryptophan N-acetyltransferase.
+CA Acetyl-CoA + D-tryptophan = CoA + N-acetyl-D-tryptophan.
+
+----------------------------
+ID 2.3.1.36
+CA Acetyl-CoA + a D-amino acid = CoA + an N-acetyl-D-amino acid.
+DE D-amino-acid N-acetyltransferase.
+
+----------------------------
+ID 2.3.1.44
+CA Acetyl-CoA + N-acetylneuraminate = CoA + N-acetyl-4-O-acetylneuraminate.
+DE N-acetylneuraminate 4-O-acetyltransferase.
+
+----------------------------
+ID 2.3.1.48
+DE Histone acetyltransferase.
+CA Acetyl-CoA + histone = CoA + acetylhistone.
+
+----------------------------
+ID 2.3.1.53
+DE Phenylalanine N-acetyltransferase.
+CA Acetyl-CoA + L-phenylalanine = CoA + N-acetyl-L-phenylalanine.
+
+----------------------------
+ID 2.3.1.56
+CA N-hydroxy-4-acetylaminobiphenyl + N-hydroxy-4-aminobiphenyl = N-hydroxy-
+ 4-aminobiphenyl + N-acetoxy-4-aminobiphenyl.
+DE Aromatic-hydroxylamine O-acetyltransferase.
+
+----------------------------
+ID 2.3.1.59
+CA Acetyl-CoA + gentamicin C(1a) = CoA + N(2')-acetylgentamicin C(1a).
+AN Gentamycin acetyltransferase II.
+DE Gentamicin 2'-N-acetyltransferase.
+
+----------------------------
+ID 2.3.1.66
+CA Acetyl-CoA + L-leucine = CoA + N-acetyl-L-leucine.
+DE Leucine N-acetyltransferase.
+
+----------------------------
+ID 2.3.1.69
+CA Acetyl-CoA + a monoterpenol = CoA + a monoterpenol acetate ester.
+AN Menthol transacetylase.
+DE Monoterpenol O-acetyltransferase.
+
+----------------------------
+ID 2.3.1.72
+CA 1-O-(indol-3-yl)acetyl-beta-D-glucose + myo-inositol = D-glucose +
+ O-(indol-3-yl)acetyl-myo-inositol.
+DE Indoleacetylglucose--inositol O-acyltransferase.
+
+----------------------------
+ID 2.3.1.78
+DE Heparan-alpha-glucosaminide N-acetyltransferase.
+CA Acetyl-CoA + heparan sulfate alpha-D-glucosaminide = CoA + heparan
+ sulfate N-acetyl-alpha-D-glucosaminide.
+
+----------------------------
+ID 2.3.1.80
+CA Acetyl-CoA + an S-substituted L-cysteine = CoA + an S-substituted
+ N-acetyl-L-cysteine.
+DE Cysteine-S-conjugate N-acetyltransferase.
+
+----------------------------
+ID 2.3.1.82
+DE Aminoglycoside N(6')-acetyltransferase.
+AN 6'-aminoglycoside-N-acetyltransferase.
+ AAC(6').
+ Kanamycin 6'-N-acetyltransferase.
+CA Acetyl-CoA + kanamycin-B = CoA + N(6')-acetylkanamycin-B.
+
+----------------------------
+ID 2.3.1.84
+DE Alcohol O-acetyltransferase.
+CA Acetyl-CoA + an alcohol = CoA + an acetyl ester.
+AN AATASE.
+
+----------------------------
+ID 2.3.1.87
+DE Aralkylamine N-acetyltransferase.
+CA Acetyl-CoA + a 2-arylethylamine = CoA + an N-acetyl-2-arylethylamine.
+AN AANAT.
+ Arylalkylamine N-acetyltransferase.
+ Melatonin rhythm enzyme.
+ Serotonin acetylase.
+ Serotonin acetyltransferase.
+ Serotonin N-acetyltransferase.
+
+----------------------------
+ID 2.3.1.89
+CA Acetyl-CoA + (S)-2,3,4,5-tetrahydropyridine-2,6-dicarboxylate + H(2)O =
+ CoA + L-2-acetamido-6-oxoheptanedioate.
+AN Tetrahydrodipicolinate acetylase.
+DE Tetrahydrodipicolinate N-acetyltransferase.
+
+----------------------------
+ID 2.3.1.102
+DE N(6)-hydroxylysine O-acetyltransferase.
+CA Acetyl-CoA + N(6)-hydroxy-L-lysine = CoA + N(6)-acetyl-N(6)-hydroxy-L-
+ lysine.
+AN N(6)-hydroxylysine acetylase.
+
+----------------------------
+ID 2.3.1.105
+DE Alkylglycerophosphate 2-O-acetyltransferase.
+CA Acetyl-CoA + 1-alkyl-sn-glycero-3-phosphate = CoA + 1-alkyl-2-acetyl-
+ sn-glycero-3-phosphate.
+
+----------------------------
+ID 2.3.1.108
+DE Alpha-tubulin N-acetyltransferase.
+CA Acetyl-CoA + [alpha-tubulin]-L-lysine = CoA + [alpha-tubulin]-
+ N(6)-acetyl-L-lysine.
+AN Alpha-tubulin acetylase.
+ Alpha-tubulin acetyltransferase.
+ TAT.
+ Tubulin acetyltransferase.
+ Tubulin N-acetyltransferase.
+
+----------------------------
+ID 2.3.1.118
+DE N-hydroxyarylamine O-acetyltransferase.
+CA Acetyl-CoA + an N-hydroxyarylamine = CoA + an N-acetoxyarylamine.
+AN Arylamine N-acetyltransferase.
+ Arylhydroxamate N,O-acetyltransferase.
+
+----------------------------
+ID 2.3.1.125
+DE 1-alkyl-2-acetylglycerol O-acyltransferase.
+AN 1-hexadecyl-2-acetylglycerol acyltransferase.
+CA Acyl-CoA + 1-O-alkyl-2-acetyl-sn-glycerol = CoA + 1-O-alkyl-2-acetyl-3-
+ acyl-sn-glycerol.
+
+----------------------------
+ID 2.3.1.128
+DE Ribosomal-protein-alanine N-acetyltransferase.
+CA Acetyl-CoA + ribosomal-protein L-alanine = CoA + ribosomal-protein
+ N-acetyl-L-alanine.
+
+----------------------------
+ID 2.3.1.136
+CA Acetyl-CoA + an alpha-2,8-linked polymer of sialic acid = CoA +
+ polysialic acid acetylated at O-7 or O-9.
+DE Polysialic-acid O-acetyltransferase.
+
+----------------------------
+ID 2.3.1.149
+CA 1-alkyl-2-acetyl-sn-glycero-3-phosphocholine + 1-organyl-2-lyso-
+ sn-glycero-3-phospholipid = 1-organyl-2-lyso-sn-glycero-3-phosphocholine
+ + 1-alkyl-2-acetyl-sn-glycero-3-phospholipid.
+AN PAF acetyltransferase.
+DE Platelet-activating factor acetyltransferase.
+
+----------------------------
+ID 2.3.1.155
+DE Acetyl-CoA C-myristoyltransferase.
+CA Myristoyl-CoA + acetyl-CoA = 3-oxopalmitoyl-CoA + CoA.
+AN 3-oxopalmitoyl-CoA hydrolase.
+ 3-oxopalmitoyl-CoA-CoA acetyltransferase.
+ Myristoyl-CoA C-acetyltransferase.
+
+----------------------------
+ID 2.3.1.162
+DE Taxadien-5-alpha-ol O-acetyltransferase.
+AN Taxa-4(20),11(12)-dien-5-alpha-ol O-acetyltransferase.
+ Taxadienol acetyltransferase.
+CA Acetyl-CoA + taxa-4(20),11-dien-5-alpha-ol = CoA + taxa-4(20),11-dien-5-
+ alpha-yl acetate.
+
+----------------------------
+ID 2.3.1.166
+AN 2-debenzoyl-7,13-diacetylbaccatin III-2-O-benzoyl transferase.
+ Benzoyl-CoA:taxane 2-alpha-O-benzoyltransferase.
+CA Benzoyl-CoA + 10-deacetyl-2-debenzoylbaccatin III = CoA +
+ 10-deacetylbaccatin III.
+DE 2-alpha-hydroxytaxane 2-O-benzoyltransferase.
+
+----------------------------
+ID 2.3.1.169
+DE CO-methylating acetyl-CoA synthase.
+CF Iron-sulfur; Nickel.
+CA Acetyl-CoA + corrinoid protein = CO + methylcorrinoid protein + CoA.
+AN ACS.
+
+----------------------------
+ID 2.3.1.175
+DE Deacetylcephalosporin-C acetyltransferase.
+AN Acetyl coenzyme A:DAC acetyltransferase.
+ Acetyl-CoA:DAC acetyltransferase.
+ CPC acetylhydrolase.
+ DAC acetyltransferase.
+ DAC-AT.
+ Deacetylcephalosporin C acetyltransferase.
+CA Acetyl-CoA + deacetylcephalosporin C = CoA + cephalosporin C.
+
+----------------------------
+ID 2.3.1.178
+AN 2,4-diaminobutanoate acetyltransferase.
+ DAB acetyltransferase.
+ DABA acetyltransferase.
+ DABAcT.
+ Diaminobutyric acid acetyltransferase.
+ L-2,4-diaminobutanoate acetyltransferase.
+ L-2,4-diaminobutyrate acetyltransferase.
+CA Acetyl-CoA + L-2,4-diaminobutanoate = CoA + N(4)-acetyl-L-2,4-
+ diaminobutanoate.
+CF Potassium or sodium.
+DE Diaminobutyrate acetyltransferase.
+
+----------------------------
+ID 2.3.1.183
+CA Acetyl-CoA + phosphinothricin = CoA + N-acetylphosphinothricin.
+AN PPT acetyltransferase.
+ PPT N-acetyltransferase.
+DE Phosphinothricin acetyltransferase.
+
+----------------------------
+ID 2.3.1.186
+AN PAT.
+ Pseudotropine acetyltransferase.
+ Pseudotropine tigloyltransferase.
+CA An acyl-CoA + pseudotropine = CoA + an O-acylpseudotropine.
+DE Pseudotropine acyltransferase.
+
+----------------------------
+ID 2.3.2.10
+DE UDP-N-acetylmuramoylpentapeptide-lysine N(6)-alanyltransferase.
+AN Alanyl-transfer ribonucleate-uridine diphosphoacetylmuramoylpentapeptide
+ transferase.
+ UDP-N-acetylmuramoylpentapeptide lysine N(6)-alanyltransferase.
+ Uridine diphosphoacetylmuramoylpentapeptide lysine
+ N(6)-alanyltransferase.
+CA L-alanyl-tRNA + UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-L-lysyl-D-
+ alanyl-D-alanine = tRNA + UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-
+ N(6)-(L-alanyl)-L-lysyl-D-alanyl-D-alanine.
+
+----------------------------
+ID 2.3.3.1
+CA Acetyl-CoA + H(2)O + oxaloacetate = citrate + CoA.
+AN (R)-citric synthase.
+ Citrate condensing enzyme.
+ Citrate oxaloacetate-lyase ((pro-3S)-CH(2)COO(-)->acetyl-CoA).
+ Citrate oxaloacetate-lyase, CoA-acetylating.
+ Citrate synthase.
+ Citrate synthetase.
+ Citric synthase.
+ Citric-condensing enzyme.
+ Citrogenase.
+ Condensing enzyme.
+ Oxalacetic transacetase.
+ Oxaloacetate transacetase.
+DE Citrate (Si)-synthase.
+
+----------------------------
+ID 2.3.3.6
+DE 2-ethylmalate synthase.
+CA Acetyl-CoA + H(2)O + 2-oxobutanoate = (R)-2-ethylmalate + CoA.
+AN (R)-2-ethylmalate 2-oxobutanoyl-lyase (CoA-acetylating).
+ 2-ethylmalate-3-hydroxybutanedioate synthase.
+ Propylmalate synthase.
+ Propylmalic synthase.
+
+----------------------------
+ID 2.3.3.9
+DE Malate synthase.
+CA Acetyl-CoA + H(2)O + glyoxylate = (S)-malate + CoA.
+AN Glyoxylate transacetase.
+ Glyoxylate transacetylase.
+ Glyoxylic transacetase.
+ L-malate glyoxylate-lyase (CoA-acetylating).
+ Malate condensing enzyme.
+ Malate synthetase.
+ Malic synthetase.
+ Malic-condensing enzyme.
+
+----------------------------
+ID 2.3.3.13
+CA Acetyl-CoA + 3-methyl-2-oxobutanoate + H(2)O = (2S)-2-isopropylmalate +
+ CoA.
+AN 3-carboxy-3-hydroxy-4-methylpentanoate 3-methyl-2-oxobutanoate-lyase
+ (CoA-acetylating).
+ Alpha-IPM synthetase.
+ Alpha-isopropylmalate synthase.
+ Alpha-isopropylmalate synthetase.
+ Alpha-isopropylmalic synthetase.
+ Isopropylmalate synthase.
+ Isopropylmalate synthetase.
+DE 2-isopropylmalate synthase.
+CF Potassium.
+
+----------------------------
+ID 2.3.3.14
+AN 2-hydroxybutane-1,2,4-tricarboxylate 2-oxoglutarate-lyase (CoA-
+ acetylating).
+ Acetyl-coenzyme A:2-ketoglutarate C-acetyl transferase.
+ Homocitrate synthetase.
+CA Acetyl-CoA + H(2)O + 2-oxoglutarate = (R)-2-hydroxybutane-1,2,4-
+ tricarboxylate + CoA.
+DE Homocitrate synthase.
+
+----------------------------
+ID 2.3.3.15
+CF Magnesium; Thiamine diphosphate.
+DE Sulfoacetaldehyde acetyltransferase.
+CA Acetyl phosphate + sulfite = 2-sulfoacetaldehyde + phosphate.
+
+----------------------------
+ID 2.4.1.16
+DE Chitin synthase.
+AN Chitin-UDP acetyl-glucosaminyl transferase.
+CA UDP-N-acetyl-D-glucosamine + (1,4-(N-acetyl-beta-D-glucosaminyl))(n) =
+ UDP + (1,4-(N-acetyl-beta-D-glucosaminyl))(n+1).
+
+----------------------------
+ID 2.4.1.22
+DE Lactose synthase.
+CA UDP-galactose + D-glucose = UDP + lactose.
+AN N-acetyllactosamine synthase.
+ UDP-galactose--glucose galactosyltransferase.
+
+----------------------------
+ID 2.4.1.38
+DE Beta-N-acetylglucosaminylglycopeptide beta-1,4-galactosyltransferase.
+CA UDP-galactose + N-acetyl-beta-D-glucosaminylglycopeptide = UDP + beta-D-
+ galactosyl-(1->4)-N-acetyl-beta-D-glucosaminylglycopeptide.
+AN GalT.
+ Glycoprotein 4-beta-galactosyltransferase.
+ Thyroid galactosyltransferase.
+ UDP-galactose--glycoprotein galactosyltransferase.
+
+----------------------------
+ID 2.4.1.40
+DE Glycoprotein-fucosylgalactoside alpha-N-acetylgalactosaminyltransferase.
+AN A transferase.
+ Fucosylgalactose alpha-N-acetylgalactosaminyltransferase.
+ Fucosylglycoprotein alpha-N-acetylgalactosaminyltransferase.
+ Histo-blood group A acetylgalactosaminyltransferase.
+ Histo-blood group A transferase.
+CA UDP-N-acetyl-D-galactosamine + glycoprotein-alpha-L-fucosyl-(1->2)-D-
+ galactose = UDP + glycoprotein-N-acetyl-alpha-D-galactosaminyl-
+ (1->3)-(alpha-L-fucosyl-(1->2))-D-galactose.
+
+----------------------------
+ID 2.4.1.41
+AN Protein-UDP acetylgalactosaminyltransferase.
+CA UDP-N-acetyl-D-galactosamine + polypeptide = UDP + N-acetyl-D-
+ galactosaminyl-polypeptide.
+CF Calcium; Manganese.
+DE Polypeptide N-acetylgalactosaminyltransferase.
+
+----------------------------
+ID 2.4.1.56
+CA UDP-N-acetyl-D-glucosamine + lipopolysaccharide = UDP + N-acetyl-D-
+ glucosaminyllipopolysaccharide.
+DE Lipopolysaccharide N-acetylglucosaminyltransferase.
+
+----------------------------
+ID 2.4.1.65
+AN (Le(a))-dependent (alpha-3/4)-fucosyltransferase.
+ Alpha-(1,3/1,4) fucosyltransferase III.
+ Alpha-(1->4)-L-fucosyltransferase.
+ Alpha-4-L-fucosyltransferase.
+ Beta-acetylglucosaminylsaccharide fucosyltransferase.
+ Blood group Lewis alpha-4-fucosyltransferase.
+ Blood-group substance Le(a)-dependent fucosyltransferase.
+ FucT-II.
+ Galactoside 3(4)-L-fucosyltransferase.
+ Guanosine diphosphofucose-beta-acetylglucosaminylsaccharide 4-alpha-L-
+ fucosyltransferase.
+ Guanosine diphosphofucose-glycoprotein 4-alpha-fucosyltransferase.
+ Guanosine diphosphofucose-glycoprotein 4-alpha-L-fucosyltransferase.
+ Lewis alpha-(1->3/4)-fucosyltransferase.
+ Lewis blood group alpha-(1->3/4)-fucosyltransferase.
+ Lewis FT.
+ Lewis(Le) blood group gene-dependent alpha-(1->3/4)-L-fucosyltransferase.
+CA GDP-beta-L-fucose + beta-D-galactosyl-(1->3)-N-acetyl-D-glucosaminyl-R =
+ GDP + beta-D-galactosyl-(1->3)-(alpha-L-fucosyl-(1->4))-N-acetyl-beta-D-
+ glucosaminyl-R.
+DE 3-galactosyl-N-acetylglucosaminide 4-alpha-L-fucosyltransferase.
+
+----------------------------
+ID 2.4.1.69
+AN Alpha-(1->2)-L-fucosyltransferase.
+ Alpha-2-fucosyltransferase.
+ Alpha-2-L-fucosyltransferase.
+ Beta-galactoside alpha-1->2 fucosyltransferase.
+ Blood group H alpha-2-fucosyltransferase.
+ Blood-group substance H-dependent fucosyltransferase.
+ Galactoside 2-L-fucosyltransferase.
+ GDP fucose-lactose fucosyltransferase.
+ GDP-L-fucose:lactose fucosyltransferase.
+ Guanosine diphospho-L-fucose-lactose fucosyltransferase.
+ Guanosine diphosphofucose-beta-D-galactosyl-alpha-2-L-fucosyltransferase.
+ Guanosine diphosphofucose-galactoside 2-L-fucosyltransferase.
+ Guanosine diphosphofucose-galactosylacetylglucosaminylgalactosyl-
+ glucosylceramide alpha-L-fucosyltransferase.
+ Guanosine diphosphofucose-glycoprotein 2-alpha-fucosyltransferase.
+ Guanosine diphosphofucose-glycoprotein 2-alpha-L-fucosyltransferase.
+ Guanosine diphosphofucose-lactose fucosyltransferase.
+ H-gene-encoded beta-galactoside alpha-1->2 fucosyltransferase.
+ Secretor-type beta-galactoside alpha-1->2 fucosyltransferase.
+CA GDP-beta-L-fucose + beta-D-galactosyl-(1->3)-N-acetyl-beta-D-
+ glucosaminyl-(1->3)-beta-D-galactosyl-(1->4)-beta-D-glucosyl-
+ (1<->1)-ceramide = GDP + alpha-L-fucosyl-(1->2)-beta-D-galactosyl-
+ (1->3)-N-acetyl-beta-D-glucosaminyl-(1->3)-beta-D-galactosyl-(1->4)-beta-
+ D-glucosyl-(1<->1)-ceramide.
+DE Galactoside 2-alpha-L-fucosyltransferase.
+
+----------------------------
+ID 2.4.1.79
+AN Beta-3GalNAc-T1.
+ Galactosylgalactosylglucosylceramide beta-D-
+ acetylgalactosaminyltransferase.
+ Globoside synthase.
+ Globoside synthetase.
+ Uridine diphosphoacetylgalactosamine-galactosylgalactosylglucosylceramide
+ acetylgalactosaminyltransferase.
+CA UDP-N-acetyl-D-galactosamine + alpha-D-galactosyl-(1->4)-beta-D-
+ galactosyl-(1->4)-beta-D-glucosyl-(1<->1)-ceramide = UDP + N-acetyl-beta-
+ D-galactosaminyl-(1->3)-alpha-D-galactosyl-(1->4)-beta-D-galactosyl-
+ (1->4)-beta-D-glucosyl-(1<->1)-ceramide.
+CF Manganese.
+DE Globotriaosylceramide 3-beta-N-acetylgalactosaminyltransferase.
+
+----------------------------
+ID 2.4.1.87
+AN Alpha-galactosyltransferase.
+ Beta-D-galactosyl-N-acetylglucosaminylglycopeptide alpha-1,3-
+ galactosyltransferase.
+ Galactosyltransferase.
+ Glucosaminylglycopeptide alpha-1,3-galactosyltransferase.
+ N-acetyllactosaminide alpha-1,3-galactosyltransferase.
+ UDP-Gal:Gal-beta-1->4GlcNAc-R alpha-1->3-galactosyltransferase.
+ UDP-Gal:N-acetyllactosaminide alpha-1,3-D-galactosyltransferase.
+ UDP-galactose-acetyllactosamine alpha-D-galactosyltransferase.
+ UDPgalactose:beta-D-galactosyl-beta-1,4-N-acetyl-D-glucosaminyl-
+ glycopeptide alpha-1,3-D-galactosyltransferase.
+ Uridine diphosphogalactose-acetyllactosamine alpha-
+ 1->3-galactosyltransferase.
+ Uridine diphosphogalactose-acetyllactosamine galactosyltransferase.
+ Uridine diphosphogalactose-galactosylacetylglucosaminylgalactosyl-
+ glucosylceramide galactosyltransferase.
+CA UDP-galactose + beta-D-galactosyl-(1->4)-beta-N-acetyl-D-glucosaminyl-R =
+ UDP + alpha-D-galactosyl-(1->3)-beta-D-galactosyl-(1->4)-beta-N-
+ acetylglucosaminyl-R.
+DE N-acetyllactosaminide 3-alpha-galactosyltransferase.
+
+----------------------------
+ID 2.4.1.90
+DE N-acetyllactosamine synthase.
+CA UDP-galactose + N-acetyl-D-glucosamine = UDP + N-acetyllactosamine.
+AN Acetyllactosamine synthetase.
+ N-acetylglucosamine (beta-1,4)galactosyltransferase.
+ NAL synthetase.
+ UDP-galactose--N-acetylglucosamine beta-D-galactosyltransferase.
+ UDP-galactose-N-acetylglucosamine beta-D-galactosyltransferase.
+
+----------------------------
+ID 2.4.1.94
+CA UDP-N-acetyl-D-glucosamine + protein = UDP + 4-N-(N-acetyl-D-
+ glucosaminyl)-protein.
+AN N-GlcNAc transferase.
+DE Protein N-acetylglucosaminyltransferase.
+
+----------------------------
+ID 2.4.1.101
+DE Alpha-1,3-mannosyl-glycoprotein 2-beta-N-acetylglucosaminyltransferase.
+AN Alpha-1,3-mannosyl-glycoprotein beta-1,2-N-acetylglucosaminyltransferase.
+ GnTI.
+ N-acetylglucosaminyltransferase I.
+ N-glycosyl-oligosaccharide-glycoprotein N-acetylglucosaminyltransferase
+ I.
+ UDP-N-acetylglucosaminyl:alpha-1,3-D-mannoside-beta-1,2-N-
+ acetylglucosaminyltransferase I.
+ UDP-N-acetylglucosaminyl:alpha-3-D-mannoside beta-1,2-N-
+ acetylglucosaminyltransferase I.
+ Uridine diphosphoacetylglucosamine-alpha-1,3-mannosylglycoprotein beta-
+ 1,2-N-acetylglucosaminyltransferase.
+CA UDP-N-acetyl-D-glucosamine + 3-(alpha-D-mannosyl)-beta-D-mannosyl-R =
+ UDP + 3-(2-(N-acetyl-beta-D-glucosaminyl)-alpha-D-mannosyl)-beta-D-
+ mannosyl-R.
+
+----------------------------
+ID 2.4.1.122
+CA UDP-galactose + glycoprotein N-acetyl-D-galactosamine = UDP +
+ glycoprotein D-galactosyl-1,3-N-acetyl-D-galactosamine.
+DE Glycoprotein-N-acetylgalactosamine 3-beta-galactosyltransferase.
+
+----------------------------
+ID 2.4.1.129
+DE Peptidoglycan glycosyltransferase.
+CA (GlcNAc-(1->4)-Mur2Ac(oyl-L-Ala-gamma-D-Glu-L-Lys-D-Ala-D-
+ Ala))(n)-diphosphoundecaprenol + GlcNAc-(1->4)-Mur2Ac(oyl-L-Ala-gamma-D-
+ Glu-L-Lys-D-Ala-D-Ala)-diphosphoundecaprenol = (GlcNAc-(1->4)-Mur2Ac(oyl-
+ L-Ala-gamma-D-Glu-L-Lys-D-Ala-D-Ala))(n+1)-diphosphoundecaprenol +
+ undecaprenyl diphosphate.
+AN Bactoprenyldiphospho-N-acetylmuramoyl-(N-acetyl-D-
+ glucosaminyl)-pentapeptide:peptidoglycan N-acetylmuramoyl-N-acetyl-D-
+ glucosaminyltransferase.
+ Penicillin binding protein (3 or 1B).
+ Peptidoglycan TGase.
+ Peptidoglycan transglycosylase.
+ PG-II.
+
+----------------------------
+ID 2.4.1.138
+DE Mannotetraose 2-alpha-N-acetylglucosaminyltransferase.
+CA UDP-N-acetyl-D-glucosamine + (1->3)-alpha-D-mannosyl-(1->2)-alpha-D-
+ mannosyl-(1->2)-alpha-D-mannosyl-D-mannose = UDP + (1->3)-alpha-D-
+ mannosyl-(1->2)-(N-acetyl-alpha-D-glucosaminyl-alpha-D-
+ mannosyl)-(1->2)-alpha-D-mannosyl-D-mannose.
+AN Alpha-N-acetylglucosaminyltransferase.
+
+----------------------------
+ID 2.4.1.141
+CA UDP-N-acetyl-D-glucosamine + N-acetyl-D-glucosaminyl-diphosphodolichol =
+ UDP + N,N'-diacetylchitobiosyl-diphosphodolichol.
+DE N-acetylglucosaminyldiphosphodolichol N-acetylglucosaminyltransferase.
+
+----------------------------
+ID 2.4.1.144
+AN Beta-1,4-mannosyl-glycoprotein beta-1,4-N-acetylglucosaminyltransferase.
+ GnTIII.
+ N-acetylglucosaminyltransferase III.
+ N-glycosyl-oligosaccharide-glycoprotein N-acetylglucosaminyltransferase
+ III.
+ Uridine diphosphoacetylglucosamine-glycopeptide beta-4-
+ acetylglucosaminyltransferase III.
+CA UDP-N-acetyl-D-glucosamine + beta-D-mannosyl-R = UDP + 4-(N-acetyl-beta-
+ D-glucosaminyl)-beta-D-mannosyl-R.
+DE Beta-1,4-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase.
+
+----------------------------
+ID 2.4.1.146
+DE Beta-1,3-galactosyl-O-glycosyl-glycoprotein beta-1,3-N-
+ acetylglucosaminyltransferase.
+CA UDP-N-acetyl-D-glucosamine + beta-D-galactosyl-(1->3)-(N-acetyl-D-
+ glucosaminyl-(1->6))-N-acetyl-D-galactosaminyl-R = UDP + N-acetyl-beta-D-
+ glucosaminyl-(1->3)-beta-D-galactosyl-(1->3)-(N-acetyl-D-glucosaminyl-
+ (1->6))-N-acetyl-D-galactosaminyl-R.
+AN Elongation 3-beta-GalNAc-transferase.
+ O-glycosyl-oligosaccharide-glycoprotein N-acetylglucosaminyltransferase
+ II.
+
+----------------------------
+ID 2.4.1.148
+AN Core 6-beta-GalNAc-transferase B.
+ O-glycosyl-oligosaccharide-glycoprotein N-acetylglucosaminyltransferase
+ IV.
+CA UDP-N-acetyl-D-glucosamine + N-acetyl-beta-D-glucosaminyl-(1->3)-N-
+ acetyl-D-galactosaminyl-R = UDP + N-acetyl-beta-D-glucosaminyl-
+ (1->6)-(N-acetyl-beta-D-glucosaminyl-(1->3))-N-acetyl-D-galactosaminyl-R.
+DE Acetylgalactosaminyl-O-glycosyl-glycoprotein beta-1,6-N-
+ acetylglucosaminyltransferase.
+
+----------------------------
+ID 2.4.1.150
+AN N-acetylglucosaminyltransferase.
+CA UDP-N-acetyl-D-glucosamine + beta-D-galactosyl-1,4-N-acetyl-D-
+ glucosaminyl-R = UDP + N-acetyl-beta-D-glucosaminyl-1,6-beta-D-
+ galactosyl-1,4-N-acetyl-D-glucosaminyl-R.
+DE N-acetyllactosaminide beta-1,6-N-acetylglucosaminyl-transferase.
+
+----------------------------
+ID 2.4.1.152
+CA GDP-beta-L-fucose + (1->4)-beta-D-galactosyl-N-acetyl-D-glucosaminyl-R =
+ GDP + (1->4)-beta-D-galactosyl-(alpha-(1->3)-L-fucosyl)-N-acetyl-D-
+ glucosaminyl-R.
+AN Galactoside 3-fucosyltransferase.
+ GDP-L-fucose:1,4-beta-D-galactosyl-N-acetyl-D-glucosaminyl-R 3-L-
+ fucosyltransferase.
+ Guanosine diphosphofucose-glucoside alpha-1->3-fucosyltransferase.
+ Lewis-negative alpha-3-fucosyltransferase.
+ Plasma alpha-3-fucosyltransferase.
+DE 4-galactosyl-N-acetylglucosaminide 3-alpha-L-fucosyltransferase.
+
+----------------------------
+ID 2.4.1.155
+DE Alpha-1,6-mannosyl-glycoprotein 6-beta-N-acetylglucosaminyltransferase.
+AN Alpha-1,3(6)-mannosylglycoprotein beta-1,6-N-
+ acetylglucosaminyltransferase.
+ Alpha-mannoside beta-1,6-N-acetylglucosaminyltransferase.
+ GnTV.
+ N-acetylglucosaminyltransferase V.
+ UDP-N-acetylglucosamine:alpha-mannoside-beta-1,6
+ N-acetylglucosaminyltransferase.
+ Uridine diphosphoacetylglucosamine-alpha-mannoside beta-
+ 1->6-acetylglucosaminyltransferase.
+CA UDP-N-acetyl-D-glucosamine + 6-(2-(N-acetyl-beta-D-glucosaminyl)-alpha-D-
+ mannosyl)-beta-D-mannosyl-R = UDP + 6-(2,6-bis(N-acetyl-beta-D-
+ glucosaminyl)-alpha-D-mannosyl)-beta-D-mannosyl-R.
+
+----------------------------
+ID 2.4.1.163
+CA UDP-N-acetyl-D-glucosamine + beta-D-galactosyl-(1->4)-N-acetyl-beta-D-
+ glucosaminyl-(1->3)-beta-D-galactosyl-(1->4)-beta-D-glucosyl-
+ (1<->1)-ceramide = UDP + N-acetyl-D-glucosaminyl-(1->3)-beta-D-
+ galactosyl-(1->4)-N-acetyl-beta-D-glucosaminyl-(1->3)-beta-D-galactosyl-
+ (1->4)-beta-D-glucosyl-(1<->1)-ceramide.
+AN Poly-N-acetyllactosamine extension enzyme.
+DE Beta-galactosyl-N-acetylglucosaminylgalactosylglucosyl-ceramide beta-1,3-
+ acetylglucosaminyltransferase.
+CF Manganese.
+
+----------------------------
+ID 2.4.1.164
+CA UDP-N-acetyl-D-glucosamine + D-galactosyl-(1->4)-N-acetyl-beta-D-
+ glucosaminyl-(1->3)-beta-D-galactosyl-(1->4)-beta-D-glucosyl-
+ (1<->1)-ceramide = UDP + N-acetyl-D-glucosaminyl-(1->6)-beta-D-
+ galactosyl-(1->4)-N-acetyl-beta-D-glucosaminyl-(1->3)-beta-D-galactosyl-
+ (1->4)-beta-D-glucosyl-(1<->1)-ceramide.
+DE Galactosyl-N-acetylglucosaminylgalactosylglucosyl-ceramide beta-1,6-N-
+ acetylglucosaminyltransferase.
+CF Manganese.
+
+----------------------------
+ID 2.4.1.165
+CA UDP-N-acetyl-D-galactosamine + N-acetylneuraminyl-(2->3)-alpha-D-
+ galactosyl-(1->4)-beta-D-glucosyl-(1<->1)-ceramide = UDP + N-acetyl-D-
+ galactosaminyl-(1->4)-beta-N-acetylneuraminyl-(2->3)-alpha-D-galactosyl-
+ (1->4)-beta-D-glucosyl-(1<->1)-ceramide.
+CF Manganese.
+DE N-acetylneuraminylgalactosylglucosylceramide beta-1,4-N-
+ acetylgalactosaminyltransferase.
+
+----------------------------
+ID 2.4.1.174
+AN Glucuronylgalactosylproteoglycan beta-1,4-N-
+ acetylgalactosaminyltransferase.
+ N-acetylgalactosaminyltransferase I.
+ Uridine diphosphoacetylgalactosamine-chondroitin
+ acetylgalactosaminyltransferase I.
+CA UDP-N-acetyl-D-galactosamine + beta-D-glucuronyl-(1->3)-D-galactosyl-
+ proteoglycan = UDP + N-acetyl-D-galactosaminyl-(1->4)-beta-D-glucuronyl-
+ (1->3)-beta-D-galactosylproteoglycan.
+DE Glucuronylgalactosylproteoglycan 4-beta-N-
+ acetylgalactosaminyltransferase.
+
+----------------------------
+ID 2.4.1.180
+DE Lipopolysaccharide N-acetylmannosaminouronosyltransferase.
+CA UDP-N-acetyl-beta-D-mannosaminouronate + lipopolysaccharide = UDP +
+ N-acetyl-beta-D-mannosaminouronosyl-(1->4)-lipopolysaccharide.
+
+----------------------------
+ID 2.4.1.187
+DE N-acetylglucosaminyldiphosphoundecaprenol N-acetyl-beta-D-
+ mannosaminyltransferase.
+CA UDP-N-acetyl-D-mannosamine + N-acetyl-D-glucosaminyldiphosphoundecaprenol
+ = UDP + N-acetyl-beta-D-mannosaminyl-1,4-N-acetyl-D-
+ glucosaminyldiphosphoundecaprenol.
+
+----------------------------
+ID 2.4.1.197
+CA Transfers an N-acetyl-D-glucosamine residue from UDP-N-acetyl-D-
+ glucosamine to the 4-position of a mannose linked alpha-(1->6) to the
+ core mannose of high-mannose oligosaccharides produced by Dictyostelium
+ discoideum.
+DE High-mannose-oligosaccharide beta-1,4-N-acetylglucosaminyltransferase.
+
+----------------------------
+ID 2.4.1.201
+CA UDP-N-acetyl-D-glucosamine + 2,6-bis(N-acetyl-beta-D-glucosaminyl)-alpha-
+ D-mannosyl-R = UDP + 2,4,6-tris(N-acetyl-beta-D-glucosaminyl)-alpha-D-
+ mannosyl-R.
+AN GnTVI.
+ Mannosyl-glycoprotein beta-1,4-N-acetylglucosaminyltransferase.
+ N-acetylglucosaminyltransferase VI.
+ N-glycosyl-oligosaccharide-glycoprotein N-acetylglucosaminyltransferase
+ VI.
+ Uridine diphosphoacetylglucosamine-glycopeptide beta-
+ 1->4-acetylglucosaminyltransferase VI.
+DE Alpha-1,6-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase.
+
+----------------------------
+ID 2.4.1.206
+DE Lactosylceramide 1,3-N-acetyl-beta-D-glucosaminyltransferase.
+CA UDP-N-acetyl-D-glucosamine + beta-D-galactosyl-(1->4)-beta-D-glucosyl-
+ (1<->1)-ceramide = UDP + N-acetyl-beta-D-glucosaminyl-(1->3)-beta-D-
+ galactosyl-(1->4)-beta-D-glucosyl-(1<->1)-ceramide.
+
+----------------------------
+ID 2.4.1.211
+DE 1,3-beta-galactosyl-N-acetylhexosamine phosphorylase.
+CA Beta-D-galactopyranosyl-(1->3)-N-acetyl-D-glucosamine + phosphate =
+ alpha-D-galactopyranose 1-phosphate + N-acetyl-D-glucosamine.
+AN Galacto-N-biose phosphorylase.
+ Lacto-N-biose phosphorylase.
+ LNBP.
+
+----------------------------
+ID 2.4.1.214
+CA GDP-L-fucose + N(4)-(N-acetyl-beta-D-glucosaminyl-(1->2)-alpha-D-
+ mannosyl-(1->3)-(N-acetyl-beta-D-glucosaminyl-(1->2)-alpha-D-mannosyl-
+ (1->6))-beta-D-mannosyl-(1->4)-N-acetyl-beta-D-glucosaminyl-(1->4)-N-
+ acetyl-beta-D-glucosaminyl)asparagine = GDP + N(4)-(N-acetyl-beta-D-
+ glucosaminyl-(1->2)-alpha-D-mannosyl-(1->3)-(N-acetyl-beta-D-
+ glucosaminyl-(1->2)-alpha-D-mannosyl-(1->6))-beta-D-mannosyl-(1->4)-N-
+ acetyl-beta-D-glucosaminyl-(1->4)-(alpha-L-fucosyl-(1->3))-N-acetyl-beta-
+ D-glucosaminyl)asparagine.
+AN GDP-fucose:beta-N-acetylglucosamine (Fuc to (Fuc-alpha-1->6-GlcNAc)-Asn-
+ peptide) alpha-1->3-fucosyltransferase.
+ GDP-L-Fuc:Asn-linked GlcNAc alpha-1,3-fucosyltransferase.
+ GDP-L-Fuc:N-acetyl-beta-D-glucosaminide alpha-1,3-fucosyltransferase.
+CF Manganese.
+DE Glycoprotein 3-alpha-L-fucosyltransferase.
+
+----------------------------
+ID 2.4.1.222
+DE O-fucosylpeptide 3-beta-N-acetylglucosaminyltransferase.
+AN O-fucosylpeptide beta-1,3-N-acetylglucosaminyltransferase.
+CA Transfers a beta-D-GlcNAc residue from UDP-D-GlcNAc to the fucose residue
+ of a fucosylated protein acceptor.
+
+----------------------------
+ID 2.4.1.224
+DE Glucuronosyl-N-acetylglucosaminyl-proteoglycan 4-alpha-N-
+ acetylglucosaminyltransferase.
+CA UDP-N-acetyl-D-glucosamine + beta-D-glucuronosyl-(1->4)-N-acetyl-alpha-D-
+ glucosaminyl-proteoglycan = UDP + N-acetyl-alpha-D-glucosaminyl-
+ (1->4)-beta-D-glucuronosyl-(1->4)-N-acetyl-alpha-D-glucosaminyl-
+ proteoglycan.
+AN Alpha-N-acetylglucosaminyltransferase II.
+ Glucuronyl-N-acetylglucosaminylproteoglycan alpha-1,4-N-
+ acetylglucosaminyltransferase.
+
+----------------------------
+ID 2.4.1.226
+DE N-acetylgalactosaminyl-proteoglycan 3-beta-glucuronosyltransferase.
+CA UDP-alpha-D-glucuronate + N-acetyl-beta-D-galactosaminyl-(1->4)-beta-D-
+ glucuronosyl-proteoglycan = UDP + beta-D-glucuronosyl-(1->3)-N-acetyl-
+ beta-D-galactosaminyl-(1->4)-beta-D-glucuronosyl-proteoglycan.
+AN Chondroitin glucuronyltransferase II.
+
+----------------------------
+ID 2.4.1.229
+DE [Skp1-protein]-hydroxyproline N-acetylglucosaminyltransferase.
+CA UDP-N-acetylglucosamine + [Skp1-protein]-hydroxyproline = UDP + [Skp1-
+ protein]-O-(N-acetyl-D-glucosaminyl)hydroxyproline.
+AN Skp1-HyPro GlcNAc-transferase.
+ UDP-GlcNAc:hydroxyproline polypeptide GlcNAc-transferase.
+ UDP-GlcNAc:Skp1-hydroxyproline GlcNAc-transferase.
+ UDP-N-acetylglucosamine (GlcNAc):hydroxyproline polypeptide GlcNAc-
+ transferase.
+
+----------------------------
+ID 2.4.1.244
+CA UDP-N-acetyl-D-galactosamine + N-acetyl-beta-D-glucosaminyl group = UDP +
+ N-acetyl-beta-D-galactosaminyl-(1->4)-N-acetyl-beta-D-glucosaminyl group.
+AN Beta-1,4-N-acetylgalactosaminyltransferase.
+ Beta-4GalNAc-T3.
+ Beta-4GalNAc-T4.
+DE N-acetyl-beta-glucosaminyl-glycoprotein 4-beta-N-
+ acetylgalactosaminyltransferase.
+
+----------------------------
+ID 2.4.2.34
+DE Indolylacetylinositol arabinosyltransferase.
+AN Arabinosylindolylacetylinositol synthase.
+CA UDP-L-arabinose + (indol-3-yl)acetyl-1D-myo-inositol = UDP + (indol-3-
+ yl)acetyl-myo-inositol 3-L-arabinoside.
+
+----------------------------
+ID 2.4.99.1
+DE Beta-galactoside alpha-2,6-sialyltransferase.
+CA CMP-N-acetylneuraminate + beta-D-galactosyl-1,4-N-acetyl-beta-D-
+ glucosamine = CMP + alpha-N-acetylneuraminyl-2,6-beta-D-galactosyl-1,4-N-
+ acetyl-beta-D-glucosamine.
+AN Beta-galactosamide alpha-2,6-sialyltransferase.
+ CMP-N-acetylneuraminate-beta-galactosamide-alpha-2,6-sialyltransferase.
+
+----------------------------
+ID 2.4.99.3
+DE Alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase.
+AN GalNAc alpha-2,6-sialyltransferase I.
+CA CMP-N-acetylneuraminate + glycano-(1->3)-(N-acetyl-alpha-D-
+ galactosaminyl)-glycoprotein = CMP + glycano-((2->6)-alpha-N-
+ acetylneuraminyl)-(N-acetyl-D-galactosaminyl)-glycoprotein.
+
+----------------------------
+ID 2.4.99.6
+CA CMP-N-acetylneuraminate + beta-D-galactosyl-(1->4)-N-acetyl-D-
+ glucosaminyl-glycoprotein = CMP + alpha-N-acetylneuraminyl-(2->3)-beta-D-
+ galactosyl-(1->4)-N-acetyl-D-glucosaminyl-glycoprotein.
+DE N-acetyllactosaminide alpha-2,3-sialyltransferase.
+
+----------------------------
+ID 2.4.99.8
+AN Alpha-2,8-sialyltransferase.
+CA CMP-N-acetylneuraminate + alpha-N-acetylneuraminyl-(2->3)-beta-D-
+ galactosyl-R = CMP + alpha-N-acetylneuraminyl-(2->8)-alpha-N-
+ acetylneuraminyl-(2->3)-beta-D-galactosyl-R.
+DE Alpha-N-acetylneuraminate alpha-2,8-sialyltransferase.
+
+----------------------------
+ID 2.5.1.7
+AN Enoylpyruvate transferase.
+ MurA transferase.
+ Phosphoenolpyruvate-UDP-acetylglucosamine-3-enolpyruvyltransferase.
+ Phosphoenolpyruvate:UDP-2-acetamido-2-deoxy-D-glucose 2-enoyl-1-
+ carboxyethyltransferase.
+ Phosphoenolpyruvate:uridine diphosphate N-acetylglucosamine
+ enolpyruvyltransferase.
+ Phosphoenolpyruvate:uridine-5'-diphospho-N-acetyl-2-amino-2-deoxyglucose
+ 3-enolpyruvyltransferase.
+ Phosphopyruvate-uridine diphosphoacetylglucosamine pyruvatetransferase.
+ Pyruvate-UDP-acetylglucosamine transferase.
+ Pyruvate-uridine diphospho-N-acetyl-glucosamine transferase.
+ Pyruvate-uridine diphospho-N-acetylglucosamine transferase.
+ Pyruvic-uridine diphospho-N-acetylglucosaminyltransferase.
+ UDP-N-acetylglucosamine 1-carboxyvinyl-transferase.
+ UDP-N-acetylglucosamine enoylpyruvyltransferase.
+CA Phosphoenolpyruvate + UDP-N-acetyl-D-glucosamine = phosphate + UDP-N-
+ acetyl-3-O-(1-carboxyvinyl)-D-glucosamine.
+DE UDP-N-acetylglucosamine 1-carboxyvinyltransferase.
+
+----------------------------
+ID 2.5.1.47
+CF Pyridoxal 5'-phosphate.
+DE Cysteine synthase.
+AN Acetylserine sulfhydrylase.
+ Cysteine synthetase.
+ O(3)-acetyl-L-serine acetate-lyase (adding hydrogen-sulfide).
+ O-acetyl-L-serine sulfhydrylase.
+ O-acetyl-L-serine sulfohydrolase.
+ O-acetylserine (thiol)-lyase.
+ O-acetylserine (thiol)-lyase A.
+ O-acetylserine sulfhydrylase.
+ OAS sulfhydrylase.
+CA O(3)-acetyl-L-serine + H(2)S = L-cysteine + acetate.
+
+----------------------------
+ID 2.5.1.49
+AN Methionine synthase.
+ O-acetyl-L-homoserine acetate-lyase (adding methanethiol).
+ O-acetyl-L-homoserine sulfhydrolase.
+ O-acetylhomoserine (thiol)-lyase.
+ O-acetylhomoserine sulfhydrolase.
+ OAH sulfhydrylase.
+CA O-acetyl-L-homoserine + methanethiol = L-methionine + acetate.
+DE O-acetylhomoserine aminocarboxypropyltransferase.
+
+----------------------------
+ID 2.5.1.51
+AN Beta-(1-pyrazolyl)alanine synthase.
+ Beta-pyrazolealanine synthase.
+ Beta-pyrazolylalanine synthase (acetylserine).
+ BPA-synthase.
+ O(3)-acetyl-L-serine acetate-lyase (adding pyrazole).
+ Pyrazolealanine synthase.
+ Pyrazolylalaninase.
+CA O(3)-acetyl-L-serine + pyrazole = 3-(pyrazol-1-yl)-L-alanine + acetate.
+DE Beta-pyrazolylalanine synthase.
+
+----------------------------
+ID 2.5.1.53
+DE Uracilylalanine synthase.
+CA O(3)-acetyl-L-serine + uracil = 3-(uracil-1-yl)-L-alanine + acetate.
+AN Isowillardiine synthase.
+ O(3)-acetyl-L-serine acetate-lyase (adding uracil).
+ Willardiine synthase.
+
+----------------------------
+ID 2.5.1.57
+DE N-acylneuraminate-9-phosphate synthase.
+CA Phosphoenolpyruvate + N-acyl-D-mannosamine 6-phosphate + H(2)O =
+ N-acylneuraminate 9-phosphate + phosphate.
+AN N-acetylneuraminate 9-phosphate lyase.
+ N-acetylneuraminate 9-phosphate sialic acid 9-phosphate synthase.
+ N-acetylneuraminate 9-phosphate synthetase.
+ N-acylneuraminate-9-phosphate pyruvate-lyase (pyruvate-phosphorylating).
+ Sialic acid 9-phosphate synthetase.
+
+----------------------------
+ID 2.6.1.11
+CF Pyridoxal 5'-phosphate.
+DE Acetylornithine transaminase.
+AN Acetylornithine 5-aminotransferase.
+ Acetylornithine aminotransferase.
+ Acetylornithine delta-transaminase.
+ ACOAT.
+ N(2)-acetylornithine 5-transaminase.
+ N-acetylornithine aminotransferase.
+ N-acetylornithine-delta-transaminase.
+ Succinylornithine aminotransferase.
+CA N(2)-acetyl-L-ornithine + 2-oxoglutarate = N-acetyl-L-glutamate
+ 5-semialdehyde + L-glutamate.
+
+----------------------------
+ID 2.6.1.65
+AN N(6)-acetyl-beta-lysine aminotransferase.
+CA 6-acetamido-3-aminohexanoate + 2-oxoglutarate = 6-acetamido-3-
+ oxohexanoate + L-glutamate.
+CF Pyridoxal 5'-phosphate.
+DE N(6)-acetyl-beta-lysine transaminase.
+
+----------------------------
+ID 2.7.1.59
+CA ATP + N-acetyl-D-glucosamine = ADP + N-acetyl-D-glucosamine 6-phosphate.
+AN GlcNAc kinase.
+DE N-acetylglucosamine kinase.
+
+----------------------------
+ID 2.7.1.157
+CA ATP + N-acetyl-D-galactosamine = ADP + N-acetyl-alpha-D-galactosamine
+ 1-phosphate.
+AN GALK2.
+ GalNAc kinase.
+ GK2.
+ N-acetylgalactosamine (GalNAc)-1-phosphate kinase.
+CF Magnesium.
+DE N-acetylgalactosamine kinase.
+
+----------------------------
+ID 2.7.1.162
+CA ATP + N-acetyl-D-hexosamine = ADP + N-acetyl-alpha-D-hexosamine
+ 1-phosphate.
+AN N-acetylgalactosamine/N-acetylglucosamine 1-kinase.
+CF Magnesium.
+DE N-acetylhexosamine 1-kinase.
+
+----------------------------
+ID 2.7.2.8
+CA ATP + N-acetyl-L-glutamate = ADP + N-acetyl-L-glutamate 5-phosphate.
+DE Acetylglutamate kinase.
+
+----------------------------
+ID 2.7.7.23
+DE UDP-N-acetylglucosamine diphosphorylase.
+CA UTP + N-acetyl-alpha-D-glucosamine 1-phosphate = diphosphate + UDP-N-
+ acetyl-D-glucosamine.
+AN N-acetylglucosamine-1-phosphate uridyltransferase.
+ UDP-N-acetylglucosamine pyrophosphorylase.
+
+----------------------------
+ID 2.7.7.43
+AN CMP-N-acetylneuraminic acid synthetase.
+ CMP-NeuNAc synthetase.
+ CMP-sialate diphosphorylase.
+ CMP-sialate pyrophosphorylase.
+ CMP-sialate synthase.
+ CMP-sialic acid synthetase.
+CA CTP + N-acylneuraminate = diphosphate + CMP-N-acylneuraminate.
+DE N-acylneuraminate cytidylyltransferase.
+
+----------------------------
+ID 2.7.8.2
+DE Diacylglycerol cholinephosphotransferase.
+CA CDP-choline + 1,2-diacylglycerol = CMP + a phosphatidylcholine.
+AN 1-alkyl-2-acetylglycerol cholinephosphotransferase.
+ Alkylacylglycerol cholinephosphotransferase.
+ Cholinephosphotransferase.
+ Phosphorylcholine--glyceride transferase.
+
+----------------------------
+ID 2.7.8.13
+DE Phospho-N-acetylmuramoyl-pentapeptide-transferase.
+AN MraY transferase.
+ Phospho-MurNAc-pentapeptide transferase.
+ Phospho-N-acetylmuramoyl pentapeptide translocase.
+ Phospho-NAc-muramoyl-pentapeptide translocase (UMP).
+ Phosphoacetylmuramoylpentapeptide translocase.
+ Phosphoacetylmuramoylpentapeptidetransferase.
+ UDP-MurNAc-Ala-gamma-DGlu-Lys-DAla-DAla:undecaprenylphosphate
+ transferase.
+ UDP-MurNAc-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala:C(55)-isoprenoid alcohol
+ transferase.
+ UDP-MurNAc-pentapeptide phosphotransferase.
+CA UDP-Mur2Ac(oyl-L-Ala-gamma-D-Glu-L-Lys-D-Ala-D-Ala) + undecaprenyl
+ phosphate = UMP + Mur2Ac(oyl-L-Ala-gamma-D-Glu-L-Lys-D-Ala-D-
+ Ala)-diphosphoundecaprenol.
+
+----------------------------
+ID 2.7.8.17
+CA UDP-N-acetyl-D-glucosamine + lysosomal-enzyme D-mannose = UMP +
+ lysosomal-enzyme N-acetyl-D-glucosaminyl-phospho-D-mannose.
+AN N-acetylglucosaminylphosphotransferase.
+DE UDP-N-acetylglucosamine--lysosomal-enzyme
+ N-acetylglucosaminephosphotransferase.
+
+----------------------------
+ID 2.7.11.2
+DE [Pyruvate dehydrogenase (acetyl-transferring)] kinase.
+CA ATP + [pyruvate dehydrogenase (acetyl-transferring)] = ADP + [pyruvate
+ dehydrogenase (acetyl-transferring)] phosphate.
+AN PDH kinase.
+ PDHK.
+ PDK.
+ Pyruvate dehydrogenase kinase.
+ Pyruvate dehydrogenase kinase (phosphorylating).
+
+----------------------------
+ID 2.7.11.27
+DE [Acetyl-CoA carboxylase] kinase.
+AN Acetyl coenzyme A carboxylase kinase (phosphorylating).
+ Acetyl-CoA carboxylase bound kinase.
+ Acetyl-CoA carboxylase kinase.
+ Acetyl-CoA carboxylase kinase (AMP-activated).
+ Acetyl-CoA carboxylase kinase (cAMP-independent).
+ Acetyl-coenzyme A carboxylase kinase.
+ AMPK.
+ I-peptide kinase.
+CA ATP + [acetyl-CoA carboxylase] = ADP + [acetyl-CoA carboxylase]
+ phosphate.
+
+----------------------------
+ID 2.8.2.7
+DE UDP-N-acetylgalactosamine-4-sulfate sulfotransferase.
+CA 3'-phosphoadenylyl sulfate + UDP-N-acetyl-D-galactosamine 4-sulfate =
+ adenosine 3',5'-bisphosphate + UDP-N-acetyl-D-galactosamine 4,6-
+ bissulfate.
+
+----------------------------
+ID 2.8.2.33
+DE N-acetylgalactosamine 4-sulfate 6-O-sulfotransferase.
+CF Divalent cation; Glutathione.
+AN GalNAc4S-6ST.
+CA (1) 3'-phosphoadenylyl sulfate + dermatan = adenosine 3',5'-bisphosphate
+ + dermatan 6'-sulfate.
+ (2) 3'-phosphoadenylyl sulfate + chondroitin = adenosine
+ 3',5'-bisphosphate + chondroitin 6'-sulfate.
+
+----------------------------
+ID 3.1.1.6
+DE Acetylesterase.
+CA An acetic ester + H(2)O = an alcohol + acetate.
+AN C-esterase (in animal tissues).
+
+----------------------------
+ID 3.1.1.33
+DE 6-acetylglucose deacetylase.
+CA 6-acetyl-D-glucose + H(2)O = D-glucose + acetate.
+
+----------------------------
+ID 3.1.1.41
+CA Cephalosporin C + H(2)O = deacetylcephalosporin C + acetate.
+DE Cephalosporin-C deacetylase.
+
+----------------------------
+ID 3.1.1.47
+AN 2-acetyl-1-alkylglycerophosphocholine esterase.
+ LDL-associated phospholipase A(2).
+ LDL-PLA(2).
+ PAF 2-acylhydrolase.
+ PAF acetylhydrolase.
+ Platelet-activating factor acetylhydrolase.
+CA 1-alkyl-2-acetyl-sn-glycero-3-phosphocholine + H(2)O = 1-alkyl-
+ sn-glycero-3-phosphocholine + acetate.
+DE 1-alkyl-2-acetylglycerophosphocholine esterase.
+
+----------------------------
+ID 3.1.1.53
+DE Sialate O-acetylesterase.
+CA N-acetyl-O-acetylneuraminate + H(2)O = N-acetylneuraminate + acetate.
+
+----------------------------
+ID 3.1.1.55
+DE Acetylsalicylate deacetylase.
+CA Acetylsalicylate + H(2)O = salicylate + acetate.
+AN Aspirin esterase.
+
+----------------------------
+ID 3.1.1.58
+CA N-acetyl-D-galactosaminoglycan + H(2)O = D-galactosaminoglycan + acetate.
+DE N-acetylgalactosaminoglycan deacetylase.
+
+----------------------------
+ID 3.1.1.66
+DE 5-(3,4-diacetoxybut-1-ynyl)-2,2'-bithiophene deacetylase.
+CA 5-(3,4-diacetoxybut-1-ynyl)-2,2'-bithiophene + H(2)O = 5-(3-hydroxy-4-
+ acetoxybut-1-ynyl)-2,2'-bithiophene + acetate.
+
+----------------------------
+ID 3.1.1.71
+DE Acetylalkylglycerol acetylhydrolase.
+CA 2-acetyl-1-alkyl-sn-glycerol + H(2)O = 1-alkyl-sn-glycerol + acetate.
+AN Alkylacetylglycerol acetylhydrolase.
+
+----------------------------
+ID 3.1.1.80
+AN 2-beta-(R)-17-O-acetylajmalan:acetylesterase.
+ AAE.
+ Acetylajmalan esterase.
+CA (1) 17-O-acetylajmaline + H(2)O = ajmaline + acetate.
+ (2) 17-O-acetylnorajmaline + H(2)O = norajmaline + acetate.
+DE Acetylajmaline esterase.
+
+----------------------------
+ID 3.1.2.11
+CA Acetoacetyl-CoA + H(2)O = CoA + acetoacetate.
+DE Acetoacetyl-CoA hydrolase.
+
+----------------------------
+ID 3.1.2.16
+CA [Citrate (pro-3S)-lyase](acetyl form) + 6 H(2)O = [citrate (pro-
+ 3S)-lyase](thiol form) + 6 acetate.
+AN [Citrate-(pro-3S)-lyase] thioesterase.
+ [Citrate-(pro-3S)-lyase] thiolesterase.
+ Acetyl-S-(acyl-carrier protein) enzyme thioester hydrolase.
+ Citrate lyase deacetylase.
+DE Citrate-lyase deacetylase.
+
+----------------------------
+ID 3.1.2.25
+DE Phenylacetyl-CoA hydrolase.
+CA Phenylglyoxylyl-CoA + H(2)O = phenylglyoxylate + CoA.
+
+----------------------------
+ID 3.1.3.43
+DE [Pyruvate dehydrogenase (acetyl-transferring)]-phosphatase.
+CA [Pyruvate dehydrogenase (acetyl-transferring)] phosphate + H(2)O =
+ [pyruvate dehydrogenase (acetyl-transferring)] + phosphate.
+
+----------------------------
+ID 3.1.3.59
+DE Alkylacetylglycerophosphatase.
+CA 1-alkyl-2-acetyl-sn-glycero-3-phosphate + H(2)O = 1-alkyl-2-acetyl-
+ sn-glycerol + phosphate.
+
+----------------------------
+ID 3.1.4.45
+DE N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase.
+CA Glycoprotein N-acetyl-D-glucosaminyl-phospho-D-mannose + H(2)O =
+ N-acetyl-D-glucosamine + glycoprotein phospho-D-mannose.
+AN Alpha-N-acetylglucosaminyl phosphodiesterase.
+ Lysosomal alpha-N-acetylglucosaminidase.
+
+----------------------------
+ID 3.1.6.4
+CA Hydrolysis of the 6-sulfate groups of the N-acetyl-D-galactosamine
+ 6-sulfate units of chondroitin sulfate and of the D-galactose 6-sulfate
+ units of keratan sulfate.
+AN Chondroitinase.
+ Chondroitinsulfatase.
+ Galactose-6-sulfate sulfatase.
+DE N-acetylgalactosamine-6-sulfatase.
+
+----------------------------
+ID 3.1.6.12
+DE N-acetylgalactosamine-4-sulfatase.
+CA Hydrolysis of the 4-sulfate groups of the N-acetyl-D-galactosamine
+ 4-sulfate units of chondroitin sulfate and dermatan sulfate.
+AN Arylsulfatase B.
+ Chondroitinase.
+ Chondroitinsulfatase.
+
+----------------------------
+ID 3.2.1.14
+AN 1,4-beta-poly-N-acetylglucosaminidase.
+ Chitodextrinase.
+ Poly-beta-glucosaminidase.
+CA Random hydrolysis of N-acetyl-beta-D-glucosaminide (1->4)-beta-linkages
+ in chitin and chitodextrins.
+DE Chitinase.
+
+----------------------------
+ID 3.2.1.49
+CA Hydrolysis of terminal non-reducing N-acetyl-D-galactosamine residues in
+ N-acetyl-alpha-D-galactosaminides.
+AN Alpha-galactosidase B.
+ Alpha-NAGA.
+DE Alpha-N-acetylgalactosaminidase.
+
+----------------------------
+ID 3.2.1.52
+CA Hydrolysis of terminal non-reducing N-acetyl-D-hexosamine residues in
+ N-acetyl-beta-D-hexosaminides.
+AN Beta-hexosaminidase.
+ Hexosaminidase.
+ N-acetyl-beta-glucosaminidase.
+DE Beta-N-acetylhexosaminidase.
+
+----------------------------
+ID 3.2.1.92
+CA Hydrolysis of terminal, non-reducing N-acetylmuramic residues.
+AN Exo-beta-N-acetylmuramidase.
+DE Peptidoglycan beta-N-acetylmuramidase.
+
+----------------------------
+ID 3.2.1.97
+DE Glycopeptide alpha-N-acetylgalactosaminidase.
+AN D-galactosyl-3-(N-acetyl-alpha-D-galactosaminyl)-L-serine
+ mucinaminohydrolase.
+ Endo-alpha-acetylgalactosaminidase.
+ Endo-alpha-GalNAc-ase.
+ Endo-alpha-N-acetyl-D-galactosaminidase.
+ Endo-alpha-N-acetylgalactosaminidase.
+ Mucinaminylserine mucinaminidase.
+CA Hydrolysis of O-glycosidic linkages of sugar chains between alpha-N-
+ acetyl-D-galactosamine and serine or threonine residues in glycoproteins.
+
+----------------------------
+ID 3.2.1.129
+DE Endo-alpha-sialidase.
+CA Endohydrolysis of (2->8)-alpha-sialosyl linkages in oligo- or
+ poly(sialic) acids.
+AN Endo-N-acetylneuraminidase.
+ Endoneuraminidase.
+ Poly(alpha-2,8-sialosyl) endo-N-acetylneuraminidase.
+
+----------------------------
+ID 3.2.2.11
+DE Beta-aspartyl-N-acetylglucosaminidase.
+CA 1-beta-aspartyl-N-acetyl-D-glucosaminylamine + H(2)O = L-asparagine +
+ N-acetyl-D-glucosamine.
+
+----------------------------
+ID 3.4.17.8
+CF Zinc.
+DE Muramoylpentapeptide carboxypeptidase.
+CA Cleavage of the bond UDP-N-acetylmuramoyl-L-alanyl-D-gamma-glutamyl-6-
+ carboxy-L-lysyl-D-alanyl-|-D-alanine.
+AN Carboxypeptidase D-alanyl-D-alanine.
+ D-alanine carboxypeptidase.
+ D-alanine-D-alanine-carboxypeptidase.
+ D-alanyl-D-alanine carboxypeptidase.
+ D-alanyl-D-alanine peptidase.
+ DD-carboxypeptidase.
+ DD-peptidase.
+ PBP5.
+ Penicillin binding protein 5.
+ UDP-N-acetylmuramoyl-tetrapeptidyl-D-alanine alanine-hydrolase.
+
+----------------------------
+ID 3.4.17.21
+AN Folate hydrolase.
+ N-acetylated-gamma-linked-acidic dipeptidase.
+ NAALADase.
+ Pteroylpoly-gamma-glutamate carboxypeptidase.
+CA Release of an unsubstituted, C-terminal glutamyl residue, typically from
+ Ac-Asp-Glu or folylpoly-gamma-glutamates.
+DE Glutamate carboxypeptidase II.
+CF Zinc.
+
+----------------------------
+ID 3.5.1.16
+DE Acetylornithine deacetylase.
+AN Acetylornithinase.
+ N-acetylornithinase.
+CA N(2)-acetyl-L-ornithine + H(2)O = acetate + L-ornithine.
+
+----------------------------
+ID 3.5.1.21
+DE N-acetyl-beta-alanine deacetylase.
+CA N-acetyl-beta-alanine + H(2)O = acetate + beta-alanine.
+
+----------------------------
+ID 3.5.1.25
+CA N-acetyl-D-glucosamine 6-phosphate + H(2)O = D-glucosamine 6-phosphate +
+ acetate.
+DE N-acetylglucosamine-6-phosphate deacetylase.
+
+----------------------------
+ID 3.5.1.28
+CA Hydrolyzes the link between N-acetylmuramoyl residues and L-amino acid
+ residues in certain cell-wall glycopeptides.
+DE N-acetylmuramoyl-L-alanine amidase.
+
+----------------------------
+ID 3.5.1.33
+DE N-acetylglucosamine deacetylase.
+CA N-acetyl-D-glucosamine + H(2)O = D-glucosamine + acetate.
+
+----------------------------
+ID 3.5.1.41
+DE Chitin deacetylase.
+CA Chitin + H(2)O = chitosan + acetate.
+
+----------------------------
+ID 3.5.1.47
+CA N-acetyl-LL-2,6-diaminoheptanedioate + H(2)O = acetate + LL-2,6-
+ diaminoheptanedioate.
+DE N-acetyldiaminopimelate deacetylase.
+
+----------------------------
+ID 3.5.1.51
+DE 4-acetamidobutyryl-CoA deacetylase.
+AN Aminobutyryl-CoA thiolesterase.
+CA 4-acetamidobutanoyl-CoA + H(2)O = acetate + 4-aminobutanoyl-CoA.
+
+----------------------------
+ID 3.5.1.62
+DE Acetylputrescine deacetylase.
+CA N-acetylputrescine + H(2)O = acetate + putrescine.
+
+----------------------------
+ID 3.5.1.85
+DE (S)-N-acetyl-1-phenylethylamine hydrolase.
+CA N-acetylphenylethylamine + H(2)O = phenylethylamine + acetate.
+AN (S)-N-acetyl-1-phenylethylamine amidohydrolase.
+
+----------------------------
+ID 3.5.1.98
+DE Histone deacetylase.
+CA Hydrolysis of an N(6)-acetyl-lysine residue of a histone to yield a
+ deacetylated histone.
+AN HDAC.
+
+----------------------------
+ID 3.7.1.6
+DE Acetylpyruvate hydrolase.
+CA Acetylpyruvate + H(2)O = acetate + pyruvate.
+
+----------------------------
+ID 3.11.1.1
+CF Magnesium.
+DE Phosphonoacetaldehyde hydrolase.
+CA Phosphonoacetaldehyde + H(2)O = acetaldehyde + phosphate.
+AN 2-phosphonoacetylaldehyde phosphonohydrolase.
+ Phosphonatase.
+ Phosphonoacetylaldehyde phosphonohydrolase.
+
+----------------------------
+ID 4.1.1.78
+CA Acetylenedicarboxylate + H(2)O = pyruvate + CO(2).
+AN Acetylenedicarboxylate carboxy-lyase.
+ Acetylenedicarboxylate hydratase.
+DE Acetylenedicarboxylate decarboxylase.
+
+----------------------------
+ID 4.1.2.9
+AN D-xylulose-5-phosphate D-glyceraldehyde-3-phosphate-lyase (phosphate-
+ acetylating).
+ Xylulose-5-phosphate phosphoketolase.
+CA D-xylulose 5-phosphate + phosphate = acetyl phosphate + D-glyceraldehyde
+ 3-phosphate + H(2)O.
+CF Thiamine diphosphate.
+DE Phosphoketolase.
+
+----------------------------
+ID 4.1.2.22
+DE Fructose-6-phosphate phosphoketolase.
+CF Thiamine diphosphate.
+CA D-fructose 6-phosphate + phosphate = acetyl phosphate + D-erythrose
+ 4-phosphate + H(2)O.
+AN D-fructose-6-phosphate D-erythrose-4-phosphate-lyase (phosphate-
+ acetylating).
+
+----------------------------
+ID 4.1.3.3
+DE N-acetylneuraminate lyase.
+AN N-acetylneuraminate pyruvate-lyase.
+ N-acetylneuraminic acid aldolase.
+CA N-acetylneuraminate = N-acetyl-D-mannosamine + pyruvate.
+
+----------------------------
+ID 4.1.3.35
+CA (1-hydroxycyclohexan-1-yl)acetyl-CoA = acetyl-CoA + cyclohexanone.
+AN (1-hydroxycyclohexan-1-yl)acetyl-CoA cyclohexanone-lyase.
+DE (1-hydroxycyclohexan-1-yl)acetyl-CoA lyase.
+
+----------------------------
+ID 4.2.1.27
+DE Acetylenecarboxylate hydratase.
+AN Acetylenemonocarboxylate hydratase.
+ Alkynoate hydratase.
+ Malonate-semialdehyde dehydratase.
+CA 3-oxopropanoate = propynoate + H(2)O.
+
+----------------------------
+ID 4.2.1.108
+DE Ectoine synthase.
+AN L-ectoine synthase.
+ N-acetyldiaminobutanoate dehydratase.
+ N-acetyldiaminobutyrate dehydratase.
+CA N(4)-acetyl-L-2,4-diaminobutanoate = L-ectoine + H(2)O.
+
+----------------------------
+ID 4.2.1.112
+CA Acetaldehyde = acetylene + H(2)O.
+AN AHy.
+DE Acetylene hydratase.
+CF Bis(molybdopterin guanine dinucleotide)molybdenum cofactor; Iron-sulfur;
+ Tungsten.
+
+----------------------------
+ID 4.3.1.9
+AN 2-amino-2-deoxy-D-gluconate ammonia-lyase.
+ 2-amino-2-deoxy-D-gluconate hydro-lyase (deaminating).
+ Acetylenemonocarboxylic acid hydrase.
+ Aminodeoxygluconate ammonia-lyase.
+ Aminodeoxygluconate dehydratase.
+ D-glucosaminate dehydratase.
+ D-glucosaminic acid dehydrase.
+ Glucosaminic dehydrase.
+CA D-glucosaminate = 2-dehydro-3-deoxy-D-gluconate + NH(3).
+CF Pyridoxal 5'-phosphate.
+DE Glucosaminate ammonia-lyase.
+
+----------------------------
+ID 4.3.3.3
+CA Deacetylisoipecoside + H(2)O = dopamine + secologanin.
+DE Deacetylisoipecoside synthase.
+
+----------------------------
+ID 5.1.2.4
+AN Acetylmethylcarbinol racemase.
+CA (S)-acetoin = (R)-acetoin.
+DE Acetoin racemase.
+
+----------------------------
+ID 5.1.3.7
+DE UDP-N-acetylglucosamine 4-epimerase.
+CA UDP-N-acetyl-D-glucosamine = UDP-N-acetyl-D-galactosamine.
+AN UDP-GlcNAc 4-epimerase.
+ Uridine diphosphoacetylglucosamine epimerase.
+
+----------------------------
+ID 5.1.3.9
+DE N-acylglucosamine-6-phosphate 2-epimerase.
+AN Acylglucosamine phosphate 2-epimerase.
+ Acylglucosamine-6-phosphate 2-epimerase.
+ Acylmannosamine phosphate 2-epimerase.
+ N-acetylglucosmamine 6-phosphate 2-epimerase.
+ N-acetylmannosamine-6-phosphate 2-epimerase.
+CA N-acyl-D-glucosamine 6-phosphate = N-acyl-D-mannosamine 6-phosphate.
+
+----------------------------
+ID 5.1.3.14
+AN UDP-GlcNAc-2-epimerase.
+ Uridine diphosphate-N-acetylglucosamine-2'-epimerase.
+ Uridine diphospho-N-acetylglucosamine 2'-epimerase.
+ Uridine diphosphoacetylglucosamine 2'-epimerase.
+CA UDP-N-acetyl-D-glucosamine = UDP-N-acetyl-D-mannosamine.
+DE UDP-N-acetylglucosamine 2-epimerase.
+
+----------------------------
+ID 5.3.3.3
+DE Vinylacetyl-CoA Delta-isomerase.
+AN Vinylacetyl coenzyme A isomerase.
+CA Vinylacetyl-CoA = crotonyl-CoA.
+
+----------------------------
+ID 5.3.3.8
+DE Dodecenoyl-CoA isomerase.
+AN 3,2-trans-enoyl-CoA isomerase.
+ Acetylene-allene isomerase.
+ Delta(3),Delta(2)-enoyl-CoA isomerase.
+ Delta(3)-cis-Delta(2)-trans-enoyl-CoA isomerase.
+ Dodecenoyl-CoA Delta-isomerase.
+CA (3Z)-dodec-3-enoyl-CoA = (2E)-dodec-2-enoyl-CoA.
+
+----------------------------
+ID 5.4.2.3
+DE Phosphoacetylglucosamine mutase.
+AN Acetylglucosamine phosphomutase.
+ N-acetylglucosamine-phosphate mutase.
+CA N-acetyl-alpha-D-glucosamine 1-phosphate = N-acetyl-D-glucosamine
+ 6-phosphate.
+
+----------------------------
+ID 6.2.1.1
+CA ATP + acetate + CoA = AMP + diphosphate + acetyl-CoA.
+AN Acetate thiokinase.
+ Acetyl-activating enzyme.
+ Acetyl-CoA synthase.
+ Acetyl-CoA synthetase.
+ Acyl-activating enzyme.
+DE Acetate--CoA ligase.
+
+----------------------------
+ID 6.2.1.16
+AN Acetoacetyl-CoA synthetase.
+CA ATP + acetoacetate + CoA = AMP + diphosphate + acetoacetyl-CoA.
+DE Acetoacetate--CoA ligase.
+
+----------------------------
+ID 6.3.2.7
+DE UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--L-lysine ligase.
+AN L-lysine-adding enzyme.
+ MurE synthetase.
+ UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-L-lysine synthetase.
+ UPD-MurNAc-L-Ala-D-Glu:L-Lys ligase.
+ Uridine diphospho-N-acetylmuramoylalanyl-D-glutamyllysine synthetase.
+CA ATP + UDP-N-acetylmuramoyl-L-alanyl-D-glutamate + L-lysine = ADP +
+ phosphate + UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-L-lysine.
+
+----------------------------
+ID 6.3.2.9
+DE UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase.
+CA ATP + UDP-N-acetylmuramoyl-L-alanine + glutamate = ADP + phosphate + UDP-
+ N-acetylmuramoyl-L-alanyl-D-glutamate.
+AN D-glutamate ligase.
+ D-glutamate-adding enzyme.
+ MurD synthetase.
+ UDP-Mur-NAC-L-Ala:D-Glu ligase.
+ UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase.
+ UDP-N-acetylmuramoylalanine--D-glutamate ligase.
+ Uridine diphospho-N-acetylmuramoylalanyl-D-glutamate synthetase.
+
+----------------------------
+ID 6.3.2.13
+AN MurE synthetase.
+ UDP-N-acetylmuramoyl-L-alanyl-D-glutamate:meso-2,6-diamino-heptanedioate
+ ligase (ADP-forming).
+ UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimelate
+ synthetase.
+ UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase.
+ UDP-N-acetylmuramyl-tripeptide synthetase.
+CA ATP + UDP-N-acetylmuramoyl-L-alanyl-D-glutamate + meso-2,6-
+ diaminoheptanedioate = ADP + phosphate + UDP-N-acetylmuramoyl-L-alanyl-D-
+ gamma-glutamyl-meso-2,6-diamino-heptanedioate.
+DE UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase.
+
+----------------------------
+ID 6.3.2.20
+CA ATP + (indol-3-yl)acetate + L-lysine = ADP + phosphate + N(6)-((indol-3-
+ yl)acetyl)-L-lysine.
+AN IAA-lysine synthetase.
+ N-(indole-3-acetyl)-L-lysine synthetase.
+DE Indoleacetate--lysine synthetase.
+
+----------------------------
+ID 6.3.4.15
+DE Biotin--[acetyl-CoA-carboxylase] ligase.
+AN Acetyl-CoA carboxylase biotin holoenzyme synthetase.
+ Biotin--[acetyl-CoA carboxylase] synthetase.
+ Biotin--protein ligase.
+CA ATP + biotin + apo-[acetyl-CoA:carbon-dioxide ligase (ADP-forming)] =
+ AMP + diphosphate + [acetyl-CoA:carbon-dioxide ligase (ADP-forming)].
+
+----------------------------
+ID 6.4.1.2
+DE Acetyl-CoA carboxylase.
+CF Biotin.
+CA ATP + acetyl-CoA + HCO(3)(-) = ADP + phosphate + malonyl-CoA.
+
+----------------------------
+
+
+=================================================
+Total hits : 205
